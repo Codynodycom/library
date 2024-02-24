@@ -60,8 +60,6 @@
     <ul>
       <li><a href="https://github.com/Codynodycom/python-easy-m2-l14/blob/main/theory/1.0-functions.md">Что такое функции</a></li>
       <li><a href="https://github.com/Codynodycom/python-easy-m2-l14/blob/main/theory/1.1-return.md">Возвращаемое значение в функциях</a></li>
-      <li><a href=""></a></li>
-      <li><a href=""></a></li>
     </ul>
     
 </details>
